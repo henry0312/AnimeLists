@@ -17,8 +17,16 @@
       "2014-07-11 (金) 23:30"
     ],
     "url": "http://anime-rurumo.com/",
-    "op": "「せいいっぱい、つたえたい！」／三森すずこ",
-    "ed": "「ふたりのクロノスタシス」／遠藤ゆりか",
+    "op": {
+      "title": "せいいっぱい、つたえたい！",
+      "singer": "三森すずこ",
+      "date": ""
+    },
+    "ed": {
+      "title": "ふたりのクロノスタシス",
+      "singer": "遠藤ゆりか",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -36,8 +44,16 @@
       "2014-07-16 (水) 21:00"
     ],
     "url": "http://www.dreamcreation.co.jp/aimaimi/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -49,8 +65,16 @@
       "2014-07-18 (金) 24:12"
     ],
     "url": "http://www.tv-tokyo.co.jp/official/aoihonoo/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -66,8 +90,16 @@
       "2014-07-08 (火) 24:30"
     ],
     "url": "http://aoha-anime.com/",
-    "op": "／CHiCO with HoneyWorks",
-    "ed": "／フジファブリック",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -85,8 +117,16 @@
       "2014-07-15 (火) 23:30"
     ],
     "url": "http://akame.tv/index.html",
-    "op": "「Skyreach」／雨宮天",
-    "ed": "「こんな世界、知りたくなかった。」／沢井美空",
+    "op": {
+      "title": "Skyreach",
+      "singer": "雨宮天",
+      "date": ""
+    },
+    "ed": {
+      "title": "こんな世界、知りたくなかった。",
+      "singer": "沢井美空",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -106,8 +146,16 @@
       "2014-07-12 (土) 18:30"
     ],
     "url": "http://www.aldnoahzero.com/",
-    "op": "「heavenlyblue」／Kalafina",
-    "ed": "「A/Z」／SawanoHiroyuki[nZk]:mizuki",
+    "op": {
+      "title": "heavenlyblue",
+      "singer": "Kalafina",
+      "date": ""
+    },
+    "ed": {
+      "title": "A/Z",
+      "singer": "SawanoHiroyuki[nZk]:mizuki",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -121,8 +169,16 @@
       "2014-07-07 (月) 25:00"
     ],
     "url": "http://www.gundam-san.net/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -136,8 +192,16 @@
       "2014-07-08 (火) 27:35"
     ],
     "url": "http://gundam-07itakura.jp/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -155,8 +219,16 @@
       "2014-07-12 (土) 24:30"
     ],
     "url": "http://www.kuroshitsuji.tv/",
-    "op": "「ENAMEL」／シド",
-    "ed": "「蒼き月満ちて」／AKIRA",
+    "op": {
+      "title": "ENAMEL",
+      "singer": "シド",
+      "date": ""
+    },
+    "ed": {
+      "title": "蒼き月満ちて",
+      "singer": "AKIRA",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -168,8 +240,16 @@
 
     ],
     "url": "http://www.ntv.co.jp/gj/",
-    "op": "「もうそう★こうかんにっき」／乙女新党",
-    "ed": "「広がれパワ」／天使真央(内田真礼)、皇紫音(三森すずこ)、天使恵(宮本侑芽)、綺羅々・バーンシュタイン(荒川ちか)、神無月環(上坂すみれ)",
+    "op": {
+      "title": "もうそう★こうかんにっき",
+      "singer": "乙女新党",
+      "date": ""
+    },
+    "ed": {
+      "title": "広がれパワ",
+      "singer": "天使真央(内田真礼)、皇紫音(三森すずこ)、天使恵(宮本侑芽)、綺羅々・バーンシュタイン(荒川ちか)、神無月環(上坂すみれ)",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -195,8 +275,16 @@
       "2014-07-06 (日) 24:00"
     ],
     "url": "http://glasslip.jp/index.html",
-    "op": "「夏の日と君の声」／ChouCho",
-    "ed": "「透明な世界」／nano.RIPE",
+    "op": {
+      "title": "夏の日と君の声",
+      "singer": "ChouCho",
+      "date": ""
+    },
+    "ed": {
+      "title": "透明な世界",
+      "singer": "nano.RIPE",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -218,8 +306,16 @@
       "2014-07-11 (金) 23:00"
     ],
     "url": "http://nozakikun.tv/",
-    "op": "「君じゃなきゃダメみたい」／オーイシマサヨシ　",
-    "ed": "「ウラオモ・フォチュ」／佐倉千代(CV:小澤亜李)",
+    "op": {
+      "title": "君じゃなきゃダメみたい",
+      "singer": "オーイシマサヨシ　",
+      "date": ""
+    },
+    "ed": {
+      "title": "ウラオモ・フォチュ",
+      "singer": "佐倉千代(CV:小澤亜李)",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -233,8 +329,16 @@
       "2014-07-09 (水) 23:58"
     ],
     "url": "http://www.tv-tokyo.co.jp/kodokunogurume4/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -254,8 +358,16 @@
       "2014-07-11 (金) 23:30"
     ],
     "url": "http://sabagebu.com/",
-    "op": "「YES!!」／大橋彩香",
-    "ed": "「ぴてぃぱてぃサバイバド」／ゲスかわ☆ガールズ(園川モモカ(大橋彩香)、鳳美煌(内山夕実)、春日野うらら(大久保瑠美)、経堂麻耶(Lynn)、豪徳寺かよ(東山奈央))",
+    "op": {
+      "title": "YES!!",
+      "singer": "大橋彩香",
+      "date": ""
+    },
+    "ed": {
+      "title": "ぴてぃぱてぃサバイバド",
+      "singer": "ゲスかわ☆ガールズ(園川モモカ(大橋彩香)、鳳美煌(内山夕実)、春日野うらら(大久保瑠美)、経堂麻耶(Lynn)、豪徳寺かよ(東山奈央))",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -283,8 +395,16 @@
       "2014-07-11 (金) 23:00"
     ],
     "url": "http://www.starchild.co.jp/special/shonen-hollywood-anime/",
-    "op": "「ハロ世界」／少年ハリウッド(風見颯(逢坂良太)、甘木生馬(柿原徹也)、佐伯希星(山下大輝)、富井大樹(蒼井翔太)、舞山春(小野賢章))",
-    "ed": "「」／カスタマイZ",
+    "op": {
+      "title": "ハロ世界",
+      "singer": "少年ハリウッド(風見颯(逢坂良太)、甘木生馬(柿原徹也)、佐伯希星(山下大輝)、富井大樹(蒼井翔太)、舞山春(小野賢章))",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "カスタマイZ",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -304,8 +424,16 @@
       "2014-07-06 (日) 24:00"
     ],
     "url": "http://argevollen.com/index.html",
-    "op": "「ToughIntention」／KOTOKO",
-    "ed": "／三澤紗千香",
+    "op": {
+      "title": "ToughIntention",
+      "singer": "KOTOKO",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -325,8 +453,16 @@
       "2014-07-15 (火) 21:00"
     ],
     "url": "http://www.dreamcreation.co.jp/stpl2/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -346,8 +482,16 @@
       "2014-07-08 (火) 22:30"
     ],
     "url": "http://www.vap.co.jp/jinsei/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -362,11 +506,19 @@
       "2014-07-06 (日) 23:00",
       "2014-07-09 (水) 26:35",
       "2014-07-10 (木) 26:35",
-      "2014-07-13 (日) 24:30"
+      "2014-07-13 (日) 27:10"
     ],
     "url": "http://space-dandy.com/",
-    "op": "「ビバナミダ」／岡村靖幸",
-    "ed": "「X次元へようこそ」／やくしまるえつこ",
+    "op": {
+      "title": "ビバナミダ",
+      "singer": "岡村靖幸",
+      "date": ""
+    },
+    "ed": {
+      "title": "X次元へようこそ",
+      "singer": "やくしまるえつこ",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -386,8 +538,16 @@
       "2014-07-17 (木) 24:00"
     ],
     "url": "http://www.bladedance.tv/",
-    "op": "「共鳴のTrueForce」／原田ひとみ",
-    "ed": "「精霊剣舞祭(ブレイドダス)」／にーそっくすす(木戸衣吹、優木かな、石上静香、大西沙織、加隈亜衣)",
+    "op": {
+      "title": "共鳴のTrueForce",
+      "singer": "原田ひとみ",
+      "date": ""
+    },
+    "ed": {
+      "title": "精霊剣舞祭(ブレイドダス)",
+      "singer": "にーそっくすす(木戸衣吹、優木かな、石上静香、大西沙織、加隈亜衣)",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -401,8 +561,16 @@
       "2014-07-16 (水) 26:30"
     ],
     "url": "http://www.ntv.co.jp/basara_je/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -414,8 +582,16 @@
       "2014-06-07 (土) 19:00"
     ],
     "url": "/tid/3426",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -447,8 +623,16 @@
       "2014-07-12 (土) 23:30"
     ],
     "url": "http://www.swordart-online.net/phantom/",
-    "op": "",
-    "ed": "「るなックワド」／春奈るな",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "るなックワド",
+      "singer": "春奈るな",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -460,8 +644,16 @@
       "2014-07-10 (木) 24:30"
     ],
     "url": "/tid/3469",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -487,8 +679,16 @@
       "2014-07-16 (水) 25:20"
     ],
     "url": "http://www.tokyo-esp.org/",
-    "op": "「東京ゼロハツ」／飛蘭",
-    "ed": "「救世Άργυρσς(アルギュロス)」／飛蘭",
+    "op": {
+      "title": "東京ゼロハツ",
+      "singer": "飛蘭",
+      "date": ""
+    },
+    "ed": {
+      "title": "救世Άργυρσς(アルギュロス)",
+      "singer": "飛蘭",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -500,8 +700,16 @@
       "2014-05-04 (日) 24:30"
     ],
     "url": "http://www.at-x.com/encount/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -523,8 +731,16 @@
       "2014-07-11 (金) 26:00"
     ],
     "url": "http://www.maql.co.jp/special/tokyoghoul/",
-    "op": "「unravel」／TK from 凛として時雨",
-    "ed": "「聖者たち」／People In The Box",
+    "op": {
+      "title": "unravel",
+      "singer": "TK from 凛として時雨",
+      "date": ""
+    },
+    "ed": {
+      "title": "聖者たち",
+      "singer": "People In The Box",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -542,8 +758,16 @@
       "2014-07-12 (土) 18:00"
     ],
     "url": "http://dmmd-anime.com/",
-    "op": "「SLIPONTHEPUMPS」／GOATBED",
-    "ed": "「BOWIEKNIFE」／GOATBED",
+    "op": {
+      "title": "SLIPONTHEPUMPS",
+      "singer": "GOATBED",
+      "date": ""
+    },
+    "ed": {
+      "title": "BOWIEKNIFE",
+      "singer": "GOATBED",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -559,8 +783,16 @@
       "2014-07-11 (金) 22:00"
     ],
     "url": "http://hanayamata.com/",
-    "op": "「花ハ踊レヤいろはにほ」／チーム“ハナヤマタ”(関谷なる(上田麗奈)、笹目ヤヤ(奥野香耶)、ハナ・N・フォンテーンスタンド(田中美海)、西御門多美(大坪由佳)、常盤真智(沼倉愛美))",
-    "ed": "「花雪」／smileY inc.",
+    "op": {
+      "title": "花ハ踊レヤいろはにほ",
+      "singer": "チーム“ハナヤマタ”(関谷なる(上田麗奈)、笹目ヤヤ(奥野香耶)、ハナ・N・フォンテーンスタンド(田中美海)、西御門多美(大坪由佳)、常盤真智(沼倉愛美))",
+      "date": ""
+    },
+    "ed": {
+      "title": "花雪",
+      "singer": "smileY inc.",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -580,8 +812,16 @@
       "2014-07-10 (木) 24:30"
     ],
     "url": "http://bakumatsu.maql.co.jp/anime/index.html",
-    "op": "「Jack」／vistlip",
-    "ed": "「絶頂DAYBREAK」／超魂團(ウルトラソウルズ)(谷山紀章、鈴木達央、森久保祥太郎、森川智之、小野賢章)",
+    "op": {
+      "title": "Jack",
+      "singer": "vistlip",
+      "date": ""
+    },
+    "ed": {
+      "title": "絶頂DAYBREAK",
+      "singer": "超魂團(ウルトラソウルズ)(谷山紀章、鈴木達央、森久保祥太郎、森川智之、小野賢章)",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -601,8 +841,16 @@
       "2014-07-22 (火) 26:30"
     ],
     "url": "http://www.barakamon.jp/",
-    "op": "「らしさ」／SUPER BEAVER",
-    "ed": "",
+    "op": {
+      "title": "らしさ",
+      "singer": "SUPER BEAVER",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -614,8 +862,16 @@
       "2014-07-07 (月) 23:54"
     ],
     "url": "http://www.himegoto-tv.jp/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -627,8 +883,16 @@
       "2014-07-05 (土) 19:00"
     ],
     "url": "http://sailormoon-official.com/animation/",
-    "op": "「MOONPRIDE」／ももいろクローバーZ",
-    "ed": "「月虹」／ももいろクローバーZ",
+    "op": {
+      "title": "MOONPRIDE",
+      "singer": "ももいろクローバーZ",
+      "date": ""
+    },
+    "ed": {
+      "title": "月虹",
+      "singer": "ももいろクローバーZ",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -656,8 +920,16 @@
       "2014-07-11 (金) 27:00"
     ],
     "url": "http://anime.prisma-illya.jp/",
-    "op": "「movingsoul」／栗林みな実",
-    "ed": "「TWOBYTWO」／幸田夢波",
+    "op": {
+      "title": "movingsoul",
+      "singer": "栗林みな実",
+      "date": ""
+    },
+    "ed": {
+      "title": "TWOBYTWO",
+      "singer": "幸田夢波",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -677,8 +949,16 @@
       "2014-07-12 (土) 25:30"
     ],
     "url": "http://www.tbs.co.jp/anime/locodol/",
-    "op": "「ミライファファレ」／流川ガールズ(宇佐美奈々子(伊藤美来)、小日向縁(三澤紗千香))",
-    "ed": "「未来少女たち」／流川ガールズ(宇佐美奈々子(伊藤美来)、小日向縁(三澤紗千香))",
+    "op": {
+      "title": "ミライファファレ",
+      "singer": "流川ガールズ(宇佐美奈々子(伊藤美来)、小日向縁(三澤紗千香))",
+      "date": ""
+    },
+    "ed": {
+      "title": "未来少女たち",
+      "singer": "流川ガールズ(宇佐美奈々子(伊藤美来)、小日向縁(三澤紗千香))",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -698,8 +978,16 @@
       "2014-07-09 (水) 21:30"
     ],
     "url": "http://iwatobi-sc.com/",
-    "op": "「DriedUpYouthfulFame」／OLDCODEX",
-    "ed": "「FUTUREFISH」／STYLE FIVE(七瀬遙(島﨑信長)、橘真琴(鈴木達央)、松岡凛(宮野真守)、葉月渚(代永翼)、竜ヶ崎怜(平川大輔))",
+    "op": {
+      "title": "DriedUpYouthfulFame",
+      "singer": "OLDCODEX",
+      "date": ""
+    },
+    "ed": {
+      "title": "FUTUREFISH",
+      "singer": "STYLE FIVE(七瀬遙(島﨑信長)、橘真琴(鈴木達央)、松岡凛(宮野真守)、葉月渚(代永翼)、竜ヶ崎怜(平川大輔))",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -719,8 +1007,16 @@
       "2014-07-13 (日) 17:30"
     ],
     "url": "http://www.tv-tokyo.co.jp/anime/pripara/",
-    "op": "「Makeit!」／i☆Ris",
-    "ed": "「Jumpin'!Dancin'!」／Prizmmy☆",
+    "op": {
+      "title": "Makeit!",
+      "singer": "i☆Ris",
+      "date": ""
+    },
+    "ed": {
+      "title": "Jumpin'!Dancin'!",
+      "singer": "Prizmmy☆",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -738,8 +1034,16 @@
       "2014-07-12 (土) 24:00"
     ],
     "url": "http://www.p4ga.jp/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -761,8 +1065,16 @@
       "2014-07-09 (水) 24:00"
     ],
     "url": "http://momokyun.com/",
-    "op": "「桃色ファタジ」／千菅春香",
-    "ed": "",
+    "op": {
+      "title": "桃色ファタジ",
+      "singer": "千菅春香",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -776,8 +1088,16 @@
       "2014-07-09 (水) 27:00"
     ],
     "url": "http://www.yamanosusume.com/",
-    "op": "",
-    "ed": "「TinklingSmile」／小倉唯",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "TinklingSmile",
+      "singer": "小倉唯",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -791,8 +1111,16 @@
       "2014-07-12 (土) 18:30"
     ],
     "url": "/tid/3470",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -804,8 +1132,16 @@
       "2014-07-07 (月) 18:30"
     ],
     "url": "/tid/3468",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -829,8 +1165,16 @@
       "2014-07-15 (火) 25:00"
     ],
     "url": "http://lovestage-tv.jp/",
-    "op": "「LφVEST」／SCREEN mode",
-    "ed": "「CLICKYOURHEART!!」／山本和臣",
+    "op": {
+      "title": "LφVEST",
+      "singer": "SCREEN mode",
+      "date": ""
+    },
+    "ed": {
+      "title": "CLICKYOURHEART!!",
+      "singer": "山本和臣",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -848,8 +1192,16 @@
       "2014-07-10 (木) 21:00"
     ],
     "url": "http://hamatorapj.com/reply/",
-    "op": "",
-    "ed": "",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -865,8 +1217,16 @@
       "2014-07-12 (土) 25:00"
     ],
     "url": "http://www.tbs.co.jp/anime/railwars/",
-    "op": "「向かい風に打たれながら」／茅原実里",
-    "ed": "「OVERDRIVER」／ZAQ",
+    "op": {
+      "title": "向かい風に打たれながら",
+      "singer": "茅原実里",
+      "date": ""
+    },
+    "ed": {
+      "title": "OVERDRIVER",
+      "singer": "ZAQ",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   },
@@ -882,8 +1242,16 @@
       "2014-07-15 (火) 27:00"
     ],
     "url": "http://corona106.tv/",
-    "op": "「好感Win-Win無条件」／ハートインベーダー(大森日雅、鈴木絵理、田澤茉純、長縄まりあ)",
-    "ed": "「」／petit milady",
+    "op": {
+      "title": "好感Win-Win無条件",
+      "singer": "ハートインベーダー(大森日雅、鈴木絵理、田澤茉純、長縄まりあ)",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "petit milady",
+      "date": ""
+    },
     "twitter": "",
     "hashtag": ""
   }
