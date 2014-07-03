@@ -1,0 +1,71 @@
+<% content_for :page_title, get_page_title(year, quarter) %>
+
+<%
+  animes = data["Anime#{year}Q#{quarter}"]
+  animes_c = data["Anime#{year}Q#{quarter}C"]
+%>
+
+<div class="page-header">
+  <h1><%= "#{year}年#{seasons[quarter.to_i]}アニメ" %> <small>一覧</small></h1>
+</div>
+
+<ol class="breadcrumb">
+  <li><%= link_to "HOME", "/index.html" %></li>
+  <li><%= link_to year, "/#{year}/index.html" %></li>
+  <li><%= link_to "Q#{quarter}", "/#{year}/Q#{quarter}/index.html" %></li>
+  <li class="active">タイトル一覧</li>
+</ol>
+
+<div class="col-md-1 navigation">
+  <ul class="nav nav-pills nav-stacked affix">
+    <li class="nav-item"><%= link_to "音楽", "/#{year}/Q#{quarter}/music.html" %></li>
+    <% locations.each do |key, value| %>
+    <li class="nav-item"><%= link_to value, "/#{year}/Q#{quarter}/#{key}.html" %></li>
+    <% end %>
+  </ul>
+</div>
+
+<div class="col-md-11">
+  <table class="table">
+    <thead>
+      <tr>
+        <th class="col-md-10">Title</th>
+        <th class="col-md-1">Twitter</th>
+        <th class="col-md-1">#</th>
+      </tr>
+    </thead>
+    <tbody>
+    <% animes.each do |title, value| %>
+    <tr class="anime">
+      <td><a href="<%= value['url'] %>" target="_blank"><%= title %></a></td>
+      <% if value['twitter'].empty? %>
+        <td></td>
+      <% else %>
+        <td><a href="https://twitter.com/<%= value['twitter'] %>" target="_blank">@<%= value['twitter'] %></a></td>
+      <% end %>
+      <td><%= value['hashtag'] %></td>
+    </tr>
+    <% end %>
+  </table>
+
+  <h3>継続</h3>
+  <table class="table">
+    <thead>
+      <tr>
+        <th class="col-md-10">Title</th>
+        <th class="col-md-1">Twitter</th>
+        <th class="col-md-1">#</th>
+      </tr>
+    </thead>
+    <tbody>
+    <% if !animes_c.nil? %>
+      <% animes_c.each do |title, value| %>
+      <tr class="anime">
+        <td><a href="<%= value['url'] %>" target="_blank"><%= title %></a></td>
+        <td><%= value['twitter'] %></td>
+        <td><%= value['hashtag'] %></td>
+      </tr>
+      <% end %>
+    <% end %>
+  </table>
+</div>

@@ -1,0 +1,23 @@
+<% content_for :page_title, "#{year}年アニメ" %>
+
+<div class="page-header">
+  <h1><%= "#{year}年アニメ" %></h1>
+</div>
+
+<ol class="breadcrumb">
+  <li><%= link_to "HOME", "/index.html" %></li>
+  <li class="active"><%= year %></li>
+</ol>
+
+<div class="navigation">
+<% get_quarters(year.to_i).each do |quarter| %>
+  <h2><%= "#{seasons[quarter.to_i]}アニメ" %></h2>
+  <ul class="nav nav-pills">
+    <li class="nav-item"><%= link_to "タイトル一覧", "/#{year}/Q#{quarter}/titles.html" %>
+    <li class="nav-item"><%= link_to "音楽", "/#{year}/Q#{quarter}/music.html" %></li>
+    <% locations.each do |key, value| %>
+    <li class="nav-item"><%= link_to value, "/#{year}/Q#{quarter}/#{key}.html" %>
+    <% end %>
+  </ul>
+<% end %>
+</div>

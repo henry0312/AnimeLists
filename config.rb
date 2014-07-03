@@ -1,3 +1,6 @@
+require "lib/anime_lists"
+activate :anime_lists
+
 ###
 # Compass
 ###
@@ -27,6 +30,29 @@
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
+
+Dir.glob("#{config[:data_dir]}/Anime*[^C].json").each do |file|
+  if /Anime(\d{4})Q(\d)\.json$/ =~ file
+    year, quarter = $1, $2
+
+    proxy "/#{year}/index.html", "/year_index.html",
+      :locals => { :year => year }, :ignore => true
+
+    proxy "/#{year}/Q#{quarter}/index.html", "/quarter_index.html",
+      :locals => { :year => year, :quarter => quarter}, :ignore => true
+
+    proxy "/#{year}/Q#{quarter}/titles.html", "/titles.html",
+      :locals => { :year => year, :quarter => quarter}, :ignore => true
+
+    proxy "/#{year}/Q#{quarter}/music.html", "/music.html",
+      :locals => { :year => year, :quarter => quarter}, :ignore => true
+
+    locations.keys.each do |locate|
+      proxy "/#{year}/Q#{quarter}/#{locate}.html", "/local_anime.html",
+        :locals => { :year => year, :quarter => quarter, :location => locate }, :ignore => true
+    end
+  end
+end
 
 ###
 # Helpers

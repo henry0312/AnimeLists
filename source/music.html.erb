@@ -1,0 +1,42 @@
+<% content_for :page_title, get_page_title(year, quarter) %>
+
+<%
+  animes = data["Anime#{year}Q#{quarter}"]
+%>
+
+<div class="page-header">
+  <h1><%= "#{year}年#{seasons[quarter.to_i]}アニメ" %> <small>音楽</small></h1>
+</div>
+
+<ol class="breadcrumb">
+  <li><%= link_to "HOME", "/index.html" %></li>
+  <li><%= link_to year, "/#{year}/index.html" %></li>
+  <li><%= link_to "Q#{quarter}", "/#{year}/Q#{quarter}/index.html" %></li>
+  <li class="active">音楽</li>
+</ol>
+
+<div class="col-md-12 table-responsive music">
+  <% animes.each do |title, value| %>
+    <table class="table table-bordered">
+      <caption><a href="<%= value['url'] %>" target="_blank"><%= title %></a></caption>
+      <thead>
+        <tr>
+          <th class="col-md-1"></th>
+          <th class="col-md-5 text-center">曲名</th>
+          <th class="col-md-5 text-center">歌手</th>
+          <th class="col-md-1 text-center">発売日</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% %w(op ed).each do |item| %>
+        <tr>
+          <td class="text-center"><small><%= item.upcase %></small></td>
+          <td class="text-center"><%= value[item]['title'] %></td>
+          <td class="text-center"><%= value[item]['singer'] %></td>
+          <td class="text-center"><%= value[item]['date'] %></td>
+        </tr>
+        <% end %>
+      </tbody>
+    </table>
+  <% end %>
+</div>

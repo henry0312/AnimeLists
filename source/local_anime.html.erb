@@ -1,0 +1,47 @@
+<% content_for :page_title, get_page_title(year, quarter, location) %>
+
+<%
+  channels = send("get_channels_#{location}")
+  animes = get_local_animes(year, quarter, channels.keys)
+%>
+
+<div class="page-header">
+  <h1><%= "#{year}年#{seasons[quarter.to_i]}アニメ" %> <small><%= locations[location] %></small></h1>
+</div>
+
+<ol class="breadcrumb">
+  <li><%= link_to "HOME", "/index.html" %></li>
+  <li><%= link_to year, "/#{year}/index.html" %></li>
+  <li><%= link_to "Q#{quarter}", "/#{year}/Q#{quarter}/index.html" %></li>
+  <li class="active"><%= locations[location] %></li>
+</ol>
+
+<div class="col-md-2">
+  <form role="form">
+    <% channels.each do |ch, id| %>
+    <label class="checkbox">
+      <input type="checkbox" class="channel" value="<%= id %>" checked /> <%= ch %>
+    </label>
+    <% end %>
+  </form>
+</div>
+
+<div class="col-md-10">
+  <table class="table">
+    <thead>
+      <tr>
+        <th class="col-md-2">Date</th>
+        <th class="col-md-2">Channel</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+    <% animes.each do |anime| %>
+    <tr class="anime" channel="<%= channels[anime[:ch]] %>">
+      <td><%= anime[:date] %></td>
+      <td><%= anime[:ch] %></td>
+      <td><a href="<%= anime[:url] %>" target="_blank"><%= anime[:title] %></a></td>
+    </tr>
+    <% end %>
+  </table>
+</div>
