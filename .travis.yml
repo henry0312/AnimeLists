@@ -1,0 +1,21 @@
+language: ruby
+rvm: 2.1.0
+before_script:
+    - git clone --quiet https://github.com/henry0312/AnimeLists.git build
+    - pushd build
+    - git checkout -b gh-pages
+    - popd
+script:
+    - bundle exec middleman build
+after_success:
+    - cd build
+    - git add -A .
+    - git commit -m "travis autodeploy $TRAVIS_COMMIT_RANGE"
+    - '[ "$TRAVIS_BRANCH" == "master" ] && [ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/henry0312/AnimeLists.git gh-pages >/dev/null 2>&1'
+env:
+    global:
+        - GIT_COMMITTER_NAME='whoami'
+        - GIT_COMMITTER_EMAIL='whoami@travis'
+        - GIT_AUTHOR_NAME='whoami'
+        - GIT_AUTHOR_EMAIL='whoami@travis'
+        - secure: "LoWFENS4tKAENxgozkewW0mMeWnqos+3l7GZH/cnN/PlZXhchRspruAgkof2vwJgXX63png1BoTssinEtHq4oNli4x0J1paKXW6W2+W2CPoSnlHNz4ktS0pHwZr8mg2FrRGih3grS0drjQ8J4IAuEQv7OkAVLPAzD4A6DSm2TmI="
