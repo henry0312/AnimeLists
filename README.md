@@ -1,5 +1,7 @@
 # AnimeLists
 
+[![Build Status](https://travis-ci.org/henry0312/AnimeLists.svg?branch=master)](https://travis-ci.org/henry0312/AnimeLists)
+
 新番組の録画設定を楽にするためにアニメの情報を提供します。
 
 我々は最低でも年に4回新番組の設定をしなければならないが、そのリソースを一箇所に集めることが出来ればかなり質の高い情報が作れるのではないかと考え、実験的にプロジェクトを開始しました。
@@ -11,6 +13,8 @@
 ## データの閲覧方法
 
 Github Pagesを使って簡易ページを公開しています。
+
+* [アニメリスト](http://henry0312.github.io/AnimeLists/)
 
 また、生データは`data`にjson形式で保持しています。
 
@@ -51,6 +55,6 @@ bundle install --path vendor/bundle
 
 ## TODO
 
-- [ ] Travis-CI対応
+- [x] Travis-CI対応
 - [ ] 新番組の対応時期について考える
 - [ ] 手間を掛けずに情報をしょぼいカレンダーにフィードバックする方法を考える
