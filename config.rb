@@ -101,3 +101,10 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+# https://github.com/karlfreeman/middleman-deploy
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.remote   = "https://#{ENV['GH_TOKEN']}@github.com/henry0312/AnimeLists.git"
+  deploy.branch   = "gh-pages"
+end
