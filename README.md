@@ -43,7 +43,7 @@ bundle install --path vendor/bundle
 
 ## データに関して
 
-データは最初に[しょぼいカレンダー](http://cal.syoboi.jp/)をクロールして取得し、語の後はそれを更新しています。しょぼいカレンダーについては以下を参照してください。
+データは最初に[しょぼいカレンダー](http://cal.syoboi.jp/)をクロールして取得し、その後はそれを更新しています。しょぼいカレンダーについては以下を参照してください。
 
 * [0. しょぼいカレンダーとは - しょぼいカレンダーのヘルプ](https://sites.google.com/site/syobocal/syoboi-calendar-toha)
 
