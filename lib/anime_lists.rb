@@ -55,7 +55,7 @@ class AnimeLists < Middleman::Extension
           end
         end
       end
-      return animes.sort{|a, b| a[:date] <=> b[:date]}
+      return animes.sort_by{|item| item[:date]}
     end
 
     def get_channels(*names)
