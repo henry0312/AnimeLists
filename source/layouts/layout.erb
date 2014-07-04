@@ -16,13 +16,15 @@
   <header>
     <div class="container">
       <div class="row">
-        <div class="page-header">
-          <% if content_for? :header_title %>
-            <h1><%= yield_content :header_title %><% if content_for? :header_subtitle %> <small><%= yield_content :header_subtitle %></small><% end %></h1>
-          <% else %>
-            <h1><%= current_page.data.title || "" %></h1>
-          <% end %>
-        </div>
+        <% if content_for? :header_title %>
+          <h1 class="header-title"><%= yield_content :header_title %><% if content_for? :header_subtitle %> <small><%= yield_content :header_subtitle %></small><% end %></h1>
+        <% else %>
+          <h1 class="header-title"><%= current_page.data.title || "" %></h1>
+        <% end %>
+        <ul class="list-unstyled list-inline github-buttons">
+          <li><iframe src="http://ghbtns.com/github-btn.html?user=henry0312&repo=AnimeLists&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="75" height="20"></iframe></li>
+          <li><iframe src="http://ghbtns.com/github-btn.html?user=henry0312&repo=AnimeLists&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="80" height="20"></iframe></li>
+        </ul>
       </div>
     </div>
   </header>

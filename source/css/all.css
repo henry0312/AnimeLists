@@ -7,6 +7,24 @@ a:hover {
   text-decoration: none;
 }
 
+header {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+header .header-title {
+  float: left;
+}
+header ul.github-buttons {
+  float: right;
+  position: relative;
+  padding-top: 40px;
+}
+header ul.github-buttons li {
+  height: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
 .navigation > ul > li.nav-item {
   border: 1px solid #DDD;
 }
