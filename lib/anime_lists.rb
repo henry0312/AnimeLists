@@ -30,12 +30,8 @@ class AnimeLists < Middleman::Extension
   end
 
   helpers do
-    def get_page_title(year, quarter, location = nil)
-      if location.nil?
-        "#{year}年#{@@seasons[quarter.to_i]}アニメ #{@@locations[location]}"
-      else
-        "#{year}年#{@@seasons[quarter.to_i]}アニメ"
-      end
+    def get_header_title(year, quarter)
+      "#{year}年#{@@seasons[quarter.to_i]}アニメ"
     end
 
     def get_years

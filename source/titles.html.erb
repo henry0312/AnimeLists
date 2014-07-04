@@ -1,14 +1,16 @@
-<% content_for :page_title, get_page_title(year, quarter) %>
+<%
+  header_title = get_header_title(year, quarter)
+  header_subtitle = "一覧"
+  content_for :page_title, "#{header_title} #{header_subtitle}"
+  content_for :header_title, header_title
+  content_for :header_subtitle, header_subtitle
+%>
 
 <%
   animes = data["Anime#{year}Q#{quarter}"].sort_by{|key, value| key}.to_h
   animes_c = data["Anime#{year}Q#{quarter}C"]
   animes_c.sort_by!{|key, value| key}.to_h unless animes_c.nil?
 %>
-
-<div class="page-header">
-  <h1><%= "#{year}年#{seasons[quarter.to_i]}アニメ" %> <small>一覧</small></h1>
-</div>
 
 <ol class="breadcrumb">
   <li><%= link_to "HOME", "/index.html" %></li>
