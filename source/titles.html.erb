@@ -59,7 +59,7 @@
       </tr>
     </thead>
     <tbody>
-    <% if !animes_c.nil? %>
+    <% unless animes_c.nil? %>
       <% animes_c.each do |title, value| %>
       <tr class="anime">
         <td><a href="<%= value['url'] %>" target="_blank"><%= title %></a></td>
