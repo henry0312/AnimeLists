@@ -1,8 +1,9 @@
 <% content_for :page_title, get_page_title(year, quarter) %>
 
 <%
-  animes = data["Anime#{year}Q#{quarter}"]
+  animes = data["Anime#{year}Q#{quarter}"].sort_by{|key, value| key}.to_h
   animes_c = data["Anime#{year}Q#{quarter}C"]
+  animes_c.sort_by!{|key, value| key}.to_h unless animes_c.nil?
 %>
 
 <div class="page-header">
