@@ -21,7 +21,7 @@ class AnimeLists < Middleman::Extension
     app.set :seasons, @@seasons
 
     # set anime_data_summary from data files' name
-    Dir.glob("#{app.config[:data_dir]}/Anime*[^C].json").each do |file|
+    Dir.glob("#{app.config[:data_dir]}/Anime*[^C].json").sort.each do |file|
       if /Anime(\d{4})Q(\d)\.json$/ =~ file
         year, quarter = $1, $2
         (@@anime_data_summary[year.to_i] ||= []) << quarter.to_i
@@ -39,11 +39,11 @@ class AnimeLists < Middleman::Extension
     end
 
     def get_years
-      return @@anime_data_summary.keys
+      return @@anime_data_summary.keys.sort
     end
 
     def get_quarters(year)
-      return @@anime_data_summary[year.to_i]
+      return @@anime_data_summary[year.to_i].sort
     end
 
     def get_local_animes(year, quarter, channels)
