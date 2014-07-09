@@ -95,13 +95,13 @@
     ],
     "url": "http://aoha-anime.com/",
     "op": {
-      "title": "",
-      "singer": "",
+      "title": "世界は恋に落ちている",
+      "singer": "CHiCO with HoneyWorks",
       "date": ""
     },
     "ed": {
-      "title": "",
-      "singer": "",
+      "title": "ブル",
+      "singer": "フジファブリック",
       "date": ""
     },
     "twitter": "aoha_anime",
@@ -139,10 +139,12 @@
       "BS11デジタル",
       "TOKYO MX",
       "群馬テレビ",
+      "とちぎテレビ"
       "ABCテレビ",
       "AT-X"
     ],
     "date": [
+      "2014-07-05 (土) 24:00",
       "2014-07-05 (土) 24:00",
       "2014-07-05 (土) 24:00",
       "2014-07-05 (土) 24:00",
@@ -179,8 +181,8 @@
       "date": ""
     },
     "ed": {
-      "title": "",
-      "singer": "",
+      "title": "ガダムさん音頭",
+      "singer": "小西克幸、代永翼、置鮎龍太郎、興津和幸",
       "date": ""
     },
     "twitter": "GundamSan_Anime",
@@ -346,6 +348,35 @@
     "twitter": "",
     "hashtag": ""
   },
+  "PSYCHO-PASS サイコパス 新編集版": {
+    "ch": [
+      "フジテレビ",
+      "関西テレビ",
+      "テレビ新広島",
+      "テレビ西日本",
+      "東海テレビ"
+    ],
+    "date": [
+      "2014-07-10 (木) 25:40",
+      "2014-07-10 (木) 26:18",
+      "2014-07-10 (木) 26:25",
+      "2014-07-10 (木) 26:45",
+      "2014-07-10 (木) 26:50"
+    ],
+    "url": "http://psycho-pass.com/",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "twitter": "",
+    "hashtag": ""
+  },
   "さばげぶっ！": {
     "ch": [
       "TOKYO MX",
@@ -374,6 +405,37 @@
     },
     "twitter": "sabagebu_anime",
     "hashtag": "#sabagebu"
+  },
+  "残響のテロル": {
+    "ch": [
+      "フジテレビ",
+      "NST",
+      "テレビ新広島",
+      "テレビ西日本",
+      "東海テレビ",
+      "関西テレビ"
+    ],
+    "date": [
+      "2014-07-10 (木) 25:10",
+      "2014-07-10 (木) 25:50",
+      "2014-07-10 (木) 25:55",
+      "2014-07-10 (木) 26:15",
+      "2014-07-10 (木) 26:20",
+      "2014-07-11 (金) 27:51"
+    ],
+    "url": "http://terror-in-tokyo.com/",
+    "op": {
+      "title": "Trigger",
+      "singer": "Yuuki Ozaki (from Galileo Galilei)",
+      "date": ""
+    },
+    "ed": {
+      "title": "誰か、海を。",
+      "singer": "Aimer",
+      "date": ""
+    },
+    "twitter": "",
+    "hashtag": ""
   },
   "少年ハリウッド -HOLLY STAGE FOR 49-": {
     "ch": [
@@ -487,13 +549,13 @@
     ],
     "url": "http://www.vap.co.jp/jinsei/",
     "op": {
-      "title": "",
-      "singer": "",
+      "title": "凸凹解決せんせしょん",
+      "singer": "あやめと優里花 from 乙女新党",
       "date": ""
     },
     "ed": {
-      "title": "",
-      "singer": "",
+      "title": "人生☆キミ色",
+      "singer": "じんせーず(遠藤梨乃(新田ひより)、九条ふみ(豊田萌絵)、鈴木いくみ(諏訪彩花))",
       "date": ""
     },
     "twitter": "jinsei_anime",
@@ -869,13 +931,13 @@
     ],
     "url": "http://www.himegoto-tv.jp/",
     "op": {
-      "title": "",
-      "singer": "",
+      "title": "とらぶるめか",
+      "singer": "あいまいみーまいん(桑原由気、摩天楼由香、小野早稀、東城日沙子)",
       "date": ""
     },
     "ed": {
-      "title": "",
-      "singer": "",
+      "title": "めきゃっぷ",
+      "singer": "あいまいみーまいん(桑原由気、摩天楼由香、小野早稀、東城日沙子)",
       "date": ""
     },
     "twitter": "himegoto_anime",
@@ -1053,6 +1115,31 @@
     "twitter": "P4_A",
     "hashtag": "#p4g_a"
   },
+  "毎度！浦安鉄筋家族": {
+    "ch": [
+      "TOKYO MX",
+      "ニコニコチャンネル",
+      "サンテレビジョン"
+    ],
+    "date": [
+      "2014-07-06 (日) 22:27",
+      "2014-07-06 (日) 22:27",
+      "2014-07-06 (日) 22:50"
+    ],
+    "url": "http://www.akitashoten.co.jp/special/urayasu",
+    "op": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "ed": {
+      "title": "",
+      "singer": "",
+      "date": ""
+    },
+    "twitter": "",
+    "hashtag": ""
+  },
   "モモキュンソード": {
     "ch": [
       "サンテレビジョン",
@@ -1201,13 +1288,13 @@
     ],
     "url": "http://hamatorapj.com/reply/",
     "op": {
-      "title": "",
-      "singer": "",
+      "title": "千の翼",
+      "singer": "livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)",
       "date": ""
     },
     "ed": {
-      "title": "",
-      "singer": "",
+      "title": "BrandNewWorld",
+      "singer": "ayami",
       "date": ""
     },
     "twitter": "hamatora_PR",
