@@ -61,27 +61,6 @@
     "twitter": "anime_aimaimi",
     "hashtag": "#aimaimi"
   },
-  "アオイホノオ": {
-    "ch": [
-      "テレビ東京"
-    ],
-    "date": [
-      "2014-07-18 (金) 24:12"
-    ],
-    "url": "http://www.tv-tokyo.co.jp/official/aoihonoo/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "アオハライド": {
     "ch": [
       "TOKYO MX",
@@ -188,29 +167,6 @@
     "twitter": "GundamSan_Anime",
     "hashtag": "#ガンダムさん"
   },
-  "絆体感TV 機動戦士ガンダム 第07板倉小隊(第6期)": {
-    "ch": [
-      "テレビ東京",
-      "テレビ愛知"
-    ],
-    "date": [
-      "2014-07-08 (火) 25:40",
-      "2014-07-08 (火) 27:35"
-    ],
-    "url": "http://gundam-07itakura.jp/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "黒執事 Book of Circus": {
     "ch": [
       "MBS毎日放送",
@@ -237,27 +193,6 @@
     },
     "twitter": "kuroshitsuji2",
     "hashtag": "#kuroshitsuji"
-  },
-  "GJ部@": {
-    "ch": [
-
-    ],
-    "date": [
-
-    ],
-    "url": "http://www.ntv.co.jp/gj/",
-    "op": {
-      "title": "もうそう★こうかんにっき",
-      "singer": "乙女新党",
-      "date": ""
-    },
-    "ed": {
-      "title": "広がれパワ",
-      "singer": "天使真央(内田真礼)、皇紫音(三森すずこ)、天使恵(宮本侑芽)、綺羅々・バーンシュタイン(荒川ちか)、神無月環(上坂すみれ)",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "グラスリップ": {
     "ch": [
@@ -324,29 +259,6 @@
     },
     "twitter": "nozaki_anime",
     "hashtag": "#nozakikun"
-  },
-  "孤独のグルメ Season4": {
-    "ch": [
-      "テレビ東京",
-      "テレビ愛知"
-    ],
-    "date": [
-      "2014-07-09 (水) 23:58",
-      "2014-07-09 (水) 23:58"
-    ],
-    "url": "http://www.tv-tokyo.co.jp/kodokunogurume4/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "PSYCHO-PASS サイコパス 新編集版": {
     "ch": [
@@ -640,27 +552,6 @@
     "twitter": "basara_je",
     "hashtag": "#BASARA_JE"
   },
-  "ソードアート・オンエアー２": {
-    "ch": [
-      "超!A&G+"
-    ],
-    "date": [
-      "2014-06-07 (土) 19:00"
-    ],
-    "url": "/tid/3426",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "ソードアート・オンラインII": {
     "ch": [
       "TOKYO MX",
@@ -702,27 +593,6 @@
     "twitter": "sao_anime",
     "hashtag": "#sao_anime"
   },
-  "ツブ★ドル ユメカナラジオ！": {
-    "ch": [
-      "超!A&G+"
-    ],
-    "date": [
-      "2014-07-10 (木) 24:30"
-    ],
-    "url": "/tid/3469",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "東京ESP": {
     "ch": [
       "TOKYO MX",
@@ -757,27 +627,6 @@
     },
     "twitter": "tokyoesp_anime",
     "hashtag": "#東京ESP"
-  },
-  "東京エンカウント弐": {
-    "ch": [
-      "AT-X"
-    ],
-    "date": [
-      "2014-05-04 (日) 24:30"
-    ],
-    "url": "http://www.at-x.com/encount/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "東京喰種トーキョーグール": {
     "ch": [
@@ -1193,50 +1042,6 @@
     },
     "twitter": "yamanosusume",
     "hashtag": "#yamanosusume"
-  },
-  "ヤマノススメ　ラジオノススメ": {
-    "ch": [
-      "ラジオ大阪(1314)",
-      "超!A&G+"
-    ],
-    "date": [
-      "2014-07-04 (金) 23:30",
-      "2014-07-12 (土) 18:30"
-    ],
-    "url": "/tid/3470",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "らじおらいだぁす！": {
-    "ch": [
-      "超!A&G+"
-    ],
-    "date": [
-      "2014-07-07 (月) 18:30"
-    ],
-    "url": "/tid/3468",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "LOVE STAGE!!": {
     "ch": [
