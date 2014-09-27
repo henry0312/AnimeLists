@@ -74,11 +74,10 @@ GEM
       middleman-core (>= 3.2)
       net-sftp
       ptools
-    middleman-livereload (3.1.1)
-      em-websocket (>= 0.2.0)
-      middleman-core (>= 3.0.2)
-      multi_json (~> 1.0)
-      rack-livereload
+    middleman-livereload (3.3.4)
+      em-websocket (~> 0.5.1)
+      middleman-core (~> 3.2)
+      rack-livereload (~> 0.3.15)
     middleman-sprockets (3.3.10)
       middleman-core (~> 3.3)
       sprockets (~> 2.12.1)
@@ -134,7 +133,7 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 3.3.6)
   middleman-deploy (~> 0.3.0)
-  middleman-livereload (~> 3.1.0)
+  middleman-livereload (~> 3.3.4)
   redcarpet (~> 3.1.2)
   tzinfo-data
   wdm (~> 0.1.0)
