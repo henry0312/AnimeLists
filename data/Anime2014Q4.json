@@ -167,27 +167,6 @@
     "twitter": "ookamishojo_tv",
     "hashtag": "#ookamishojo"
   },
-  "おしりかじり虫(第3シリーズ)": {
-    "ch": [
-      "NHK BSプレミアム"
-    ],
-    "date": [
-      "2014-10-06 (月) 18:25"
-    ],
-    "url": "http://www9.nhk.or.jp/anime/oshiri/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "俺、ツインテールになります。": {
     "ch": [
       "CBCテレビ",
@@ -235,77 +214,6 @@
     },
     "twitter": "orefuroTV",
     "hashtag": "#orefuroTV"
-  },
-  "怪盗ジョーカー": {
-    "ch": [
-      "TOKYO MX",
-      "ニコニコチャンネル"
-    ],
-    "date": [
-      "2014-10-06 (月) 19:00",
-      "2014-11-02 (日) 24:00"
-    ],
-    "url": "http://s.mxtv.jp/joker/",
-    "op": {
-      "title": "怪盗ミラクル少年ボイ",
-      "singer": "アルカライダー",
-      "date": ""
-    },
-    "ed": {
-      "title": "パレド・イリュジョ",
-      "singer": "まいにゃ with シャッフルシスターズ",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "仮面ライダードライブ": {
-    "ch": [
-      "テレビ朝日",
-      "ABCテレビ",
-      "メ～テレ"
-    ],
-    "date": [
-      "2014-10-05 (日)  8:00",
-      "2014-10-05 (日)  8:00",
-      "2014-10-05 (日)  8:00"
-    ],
-    "url": "http://www.tv-asahi.co.jp/drive/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "カリメロ(2014)": {
-    "ch": [
-      "テレビ愛知",
-      "テレビ東京"
-    ],
-    "date": [
-      "2014-10-07 (火)  7:30",
-      "2014-10-07 (火)  7:30"
-    ],
-    "url": "http://www.tv-tokyo.co.jp/anime/calimero/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "牙狼〈GARO〉-炎の刻印-": {
     "ch": [
@@ -385,27 +293,6 @@
     },
     "twitter": "buildfighters",
     "hashtag": "#g_bf"
-  },
-  "がんばれ！ルルロロ(第2シリーズ)": {
-    "ch": [
-      "NHK Eテレ"
-    ],
-    "date": [
-      "2014-09-25 (木) 17:25"
-    ],
-    "url": "http://www9.nhk.or.jp/anime/lululolo/",
-    "op": {
-      "title": "がんばれ！ルルロロ",
-      "singer": "ルルとロロ(清水詩音、近貞月乃)",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "ガールフレンド(仮)": {
     "ch": [
@@ -858,29 +745,6 @@
     "twitter": "anime_denkigai",
     "hashtag": "#denkigai"
   },
-  "トライブクルクル": {
-    "ch": [
-      "メ～テレ",
-      "テレビ朝日"
-    ],
-    "date": [
-      "2014-09-28 (日)  7:00",
-      "2014-09-28 (日)  7:00"
-    ],
-    "url": "http://www.tribecoolcrew.net/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "トリニティセブン": {
     "ch": [
       "テレビ東京",
@@ -957,27 +821,6 @@
     },
     "twitter": "7_taizai",
     "hashtag": "#七つの大罪"
-  },
-  "ニッポン戦後サブカルチャー史": {
-    "ch": [
-      "NHK Eテレ"
-    ],
-    "date": [
-      "2014-08-01 (金) 23:00"
-    ],
-    "url": "http://www.nhk.or.jp/subculture/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "Hi☆sCoool! セハガール": {
     "ch": [
@@ -1060,27 +903,6 @@
     "twitter": "ChaikaTrabant",
     "hashtag": "#棺姫のチャイカ"
   },
-  "ふうせんいぬティニー": {
-    "ch": [
-      "NHK Eテレ"
-    ],
-    "date": [
-      "2014-09-26 (金) 17:25"
-    ],
-    "url": "http://www9.nhk.or.jp/anime/tinny/",
-    "op": {
-      "title": "ふうせんいぬィ",
-      "singer": "諸星すみれ",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "Fate/stay night Unlimited Blade Works": {
     "ch": [
       "BS11デジタル",
@@ -1126,31 +948,6 @@
     },
     "twitter": "bonkoi_pj",
     "hashtag": "#bonkoi"
-  },
-  "まじっく快斗1412": {
-    "ch": [
-      "日本テレビ",
-      "読売テレビ",
-      "中京テレビ"
-    ],
-    "date": [
-      "2014-10-04 (土) 17:30",
-      "2014-10-04 (土) 17:30",
-      "2014-10-04 (土) 17:30"
-    ],
-    "url": "http://www.ytv.co.jp/magickaito/",
-    "op": {
-      "title": "君の待つ世界",
-      "singer": "LAGOON",
-      "date": ""
-    },
-    "ed": {
-      "title": "WHITEofCRIME",
-      "singer": "REVALCY",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "魔弾の王と戦姫": {
     "ch": [
@@ -1207,29 +1004,6 @@
     },
     "twitter": "mushishi_anime",
     "hashtag": "#mushishi_anime"
-  },
-  "目玉焼きの黄身 いつつぶす？": {
-    "ch": [
-      "NHK総合",
-      "NHK総合"
-    ],
-    "date": [
-      "2014-08-04 (月) 24:10",
-      "2014-08-23 (土) 26:10"
-    ],
-    "url": "http://www9.nhk.or.jp/anime/medamayaki/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
   },
   "結城友奈は勇者である": {
     "ch": [
