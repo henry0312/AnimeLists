@@ -131,9 +131,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  middleman (~> 3.3.6)
-  middleman-deploy (~> 0.3.0)
-  middleman-livereload (~> 3.3.4)
-  redcarpet (~> 3.1.2)
+  middleman (= 3.3.6)
+  middleman-deploy (= 0.3.0)
+  middleman-livereload (= 3.3.4)
+  redcarpet (= 3.1.2)
   tzinfo-data
   wdm (~> 0.1.0)
