@@ -38,27 +38,6 @@
     "twitter": "",
     "hashtag": ""
   },
-  "アニメソング史上最大の祭典～アニメロサマーライブ2014～": {
-    "ch": [
-      "NHK BSプレミアム"
-    ],
-    "date": [
-      "2014-11-16 (日) 23:00"
-    ],
-    "url": "http://www4.nhk.or.jp/P2795/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "アブソリュート・デュオ": {
     "ch": [
       "AT-X",
@@ -204,27 +183,6 @@
     "twitter": "",
     "hashtag": ""
   },
-  "宇宙戦艦ヤマト2199 星巡る方舟": {
-    "ch": [
-
-    ],
-    "date": [
-
-    ],
-    "url": "http://yamato2199.net",
-    "op": {
-      "title": "宇宙戦艦ヤト2199",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "GreatHarmony～foryamato2199",
-      "singer": "平原綾香",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "神様はじめました◎": {
     "ch": [
       "テレビ東京",
@@ -286,29 +244,6 @@
     "ed": {
       "title": "吹雪",
       "singer": "西沢幸奏",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "キュートランスフォーマー 帰ってきたコンボイの謎": {
-    "ch": [
-      "ニコニコチャンネル",
-      "TOKYO MX"
-    ],
-    "date": [
-      "2015-01-06 (火) 21:55",
-      "2015-01-06 (火) 21:55"
-    ],
-    "url": "http://www.qtransformers.com/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
       "date": ""
     },
     "twitter": "",
@@ -818,29 +753,6 @@
     "twitter": "",
     "hashtag": ""
   },
-  "ドアマイガーD": {
-    "ch": [
-      "tvk",
-      "テレ玉"
-    ],
-    "date": [
-      "2015-01-06 (火) 22:55",
-      "2015-01-11 (日) 12:55"
-    ],
-    "url": "http://www.tvk-yokohama.com/doamai/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "DOG DAYS″": {
     "ch": [
       "KBS京都",
@@ -920,27 +832,6 @@
     "twitter": "",
     "hashtag": ""
   },
-  "ポケットモンスター XY特別編 最強メガシンカ～ActII～": {
-    "ch": [
-
-    ],
-    "date": [
-
-    ],
-    "url": "http://www.tv-tokyo.co.jp/anime/pokemon_xy_me/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
   "みりたり！": {
     "ch": [
       "テレ玉",
@@ -976,27 +867,6 @@
       "2015-01-11 (日) 22:30"
     ],
     "url": "http://www.fal-gaku.com/",
-    "op": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "ed": {
-      "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "モンハンバラエティ 一狩りいこうぜ！4G": {
-    "ch": [
-      "テレビ東京"
-    ],
-    "date": [
-      "2014-11-03 (月) 25:00"
-    ],
-    "url": "http://www.tv-tokyo.co.jp/mhp/",
     "op": {
       "title": "",
       "singer": "",
@@ -1085,27 +955,6 @@
     },
     "ed": {
       "title": "",
-      "singer": "",
-      "date": ""
-    },
-    "twitter": "",
-    "hashtag": ""
-  },
-  "わしも-wasimo-(第2シリーズ)": {
-    "ch": [
-      "NHK Eテレ"
-    ],
-    "date": [
-      "2015-01-05 (月) 18:00"
-    ],
-    "url": "http://www9.nhk.or.jp/anime/wasimo/",
-    "op": {
-      "title": "わしものうた",
-      "singer": "anahata",
-      "date": ""
-    },
-    "ed": {
-      "title": "わしもわしも",
       "singer": "",
       "date": ""
     },
