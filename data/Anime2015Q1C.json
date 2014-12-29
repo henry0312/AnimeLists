@@ -10,8 +10,8 @@
     ],
     "url": "http://www.kiseiju.jp/",
     "op": {
-      "title": "LetMeHear",
-      "singer": "Fear, and loathing in Las Vegas",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
@@ -19,29 +19,31 @@
       "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "kiseiju_anime",
+    "hashtag": "#kiseiju_anime"
   },
   "四月は君の嘘": {
     "ch": [
-      "フジテレビ"
+      "フジテレビ",
+      "関西テレビ"
     ],
     "date": [
-      "2014-10-09 (木) 25:15"
+      "2014-10-09 (木) 24:15",
+      "2014-10-09 (木) 26:28"
     ],
     "url": "http://www.kimiuso.jp/",
     "op": {
-      "title": "光るなら",
-      "singer": "Goose house",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
-      "title": "キラメキ",
-      "singer": "wacci",
+      "title": "",
+      "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "shigatsuhakimi",
+    "hashtag": "#kimiuso"
   },
   "暁のヨナ": {
     "ch": [
@@ -67,8 +69,8 @@
       "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "yona_anime",
+    "hashtag": "#暁のヨナ"
   },
   "ガンダム Gのレコンギスタ": {
     "ch": [
@@ -85,17 +87,17 @@
     ],
     "url": "http://www.g-reco.net/",
     "op": {
-      "title": "BLAZING",
-      "singer": "GARNiDELiA",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
-      "title": "Gの閃光",
-      "singer": "ハセガワダイスケ",
+      "title": "",
+      "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "gundam_reco",
+    "hashtag": "#gレコ"
   },
   "クロスアンジュ 天使と竜の輪舞": {
     "ch": [
@@ -112,17 +114,17 @@
     ],
     "url": "http://crossange.com/",
     "op": {
-      "title": "禁断のレジスタス",
-      "singer": "水樹奈々",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
-      "title": "凛麗",
-      "singer": "喜多村英梨",
+      "title": "",
+      "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "anime_crossange",
+    "hashtag": "#クロスアンジュ"
   },
   "SHIROBAKO": {
     "ch": [
@@ -141,17 +143,17 @@
     ],
     "url": "http://shirobako-anime.com/",
     "op": {
-      "title": "COLORFULBOX",
-      "singer": "石田燿子",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
-      "title": "AnimeticLoveLetter",
-      "singer": "宮森あおい(木村珠莉)、安原絵麻(佳村はるか)、坂木しずか(千菅春香)",
+      "title": "",
+      "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "shirobako_anime",
+    "hashtag": "#musani"
   },
   "弱虫ペダル GRANDE ROAD": {
     "ch": [
@@ -177,8 +179,8 @@
       "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "yowapeda_anime",
+    "hashtag": "#yp_anime"
   },
   "牙狼〈GARO〉-炎の刻印-": {
     "ch": [
@@ -193,16 +195,16 @@
     ],
     "url": "http://garo-project.jp/ANIME/",
     "op": {
-      "title": "炎ノ刻印-DIVINEFLAME-",
-      "singer": "JAM Project",
+      "title": "",
+      "singer": "",
       "date": ""
     },
     "ed": {
-      "title": "CHIASTOLITE",
-      "singer": "佐咲紗花",
+      "title": "",
+      "singer": "",
       "date": ""
     },
-    "twitter": "",
-    "hashtag": ""
+    "twitter": "anime_garo",
+    "hashtag": "#anime_garo"
   }
 }
