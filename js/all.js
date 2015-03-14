@@ -1,0 +1,1 @@
+$(function(){$("input.channel[type='checkbox']").click(function(){var t=$(this).attr("value");$("tr.anime").each($(this).prop("checked")?function(){$(this).attr("channel")==t&&$(this).removeClass("hidden")}:function(){$(this).attr("channel")==t&&$(this).addClass("hidden")})})});
